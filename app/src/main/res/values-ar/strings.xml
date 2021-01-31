@@ -4,13 +4,13 @@
     <string name="Drowning" translatable="true">"الغرق"</string>
     <string name="drown_first_line" translatable="true">"ماذا افعل إذا رأيت شخصاً يصارع الغرق في البحر او في حمام السباحة؟"</string>
     <string name="drown_2_line" translatable="true">"إذا كنت لا تجيد السباحة: -"</string>
-    <string name="drown_3_line" translatable="true">". إذا كان الشخص الذي على وشك الغرق واعياً عليك باتباع الخطوات الأتية: -"</string>
-    <string name="drown_4_line" translatable="true">". لا تجاول مطلقاٌ القفز في الماء لإنقاذ الغريق."</string>
-    <string name="drown_5_line" translatable="true">". ساعده بمد يدك او عصا او قضيب جديد او رمي حبل اليه في الماء ثم اسحبه الي خارج الماء."</string>
-    <string name="drown_6_line" translatable="true">". إذا كان الشخص الذي يصارع الغرق عير واع عليك باتباع الخطوات التالية: -"</string>
-    <string name="drown_7_line" translatable="true">". لا تحاول مطلقاُ القفز في الماء لإنقاذ الغريق."</string>
-    <string name="drown_8_line" translatable="true">". اطلب المساعدة من الجمهور، فربما وجدت من يجيد السباحة فيساعد على انقاذ الغريق.</string>
-    <string name="drown_9_line" translatable="true">". اتصل بالدفاع المدني او مسؤولي الإنقاذ على الشاطئ او في النادي."</string>
+    <string name="drown_3_line" translatable="true">"إذا كان الشخص الذي على وشك الغرق واعياً عليك باتباع الخطوات الأتية: -"</string>
+    <string name="drown_4_line" translatable="true">"لا تجاول مطلقاٌ القفز في الماء لإنقاذ الغريق."</string>
+    <string name="drown_5_line" translatable="true">"ساعده بمد يدك او عصا او قضيب جديد او رمي حبل اليه في الماء ثم اسحبه الي خارج الماء."</string>
+    <string name="drown_6_line" translatable="true">"إذا كان الشخص الذي يصارع الغرق عير واع عليك باتباع الخطوات التالية: -"</string>
+    <string name="drown_7_line" translatable="true">"لا تحاول مطلقاُ القفز في الماء لإنقاذ الغريق."</string>
+    <string name="drown_8_line" translatable="true">"اطلب المساعدة من الجمهور، فربما وجدت من يجيد السباحة فيساعد على انقاذ الغريق.</string>
+    <string name="drown_9_line" translatable="true">"اتصل بالدفاع المدني او مسؤولي الإنقاذ على الشاطئ او في النادي."</string>
 
 
 </resources>

@@ -47,6 +47,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="start"
+        android:drawableStart="@drawable/circle"
         android:text="@string/drown_3_line"
         android:textColor="@color/black"
         android:textStyle="bold"
@@ -59,6 +60,7 @@
         android:gravity="start"
         android:text="@string/drown_4_line"
         android:textColor="@color/black"
+        android:drawableStart="@drawable/circle"
         android:layout_margin="5dp"
         android:padding="5dp"
         />
@@ -68,6 +70,7 @@
         android:gravity="start"
         android:text="@string/drown_5_line"
         android:textColor="@color/black"
+        android:drawableStart="@drawable/circle"
         android:layout_margin="5dp"
         android:padding="5dp"
         />
@@ -77,6 +80,7 @@
         android:gravity="start"
         android:text="@string/drown_6_line"
         android:textColor="@color/black"
+        android:drawableStart="@drawable/circle"
         android:textStyle="bold"
         android:layout_margin="5dp"
         android:padding="5dp"
@@ -87,6 +91,7 @@
         android:gravity="start"
         android:text="@string/drown_7_line"
         android:textColor="@color/black"
+        android:drawableStart="@drawable/circle"
         android:layout_margin="5dp"
         android:padding="5dp"
         />
@@ -96,6 +101,7 @@
         android:gravity="start"
         android:text="@string/drown_8_line"
         android:textColor="@color/black"
+        android:drawableStart="@drawable/circle"
         android:layout_margin="5dp"
         android:padding="5dp"
         />
@@ -106,6 +112,7 @@
         android:gravity="start"
         android:text="@string/drown_9_line"
         android:textColor="@color/black"
+        android:drawableStart="@drawable/circle"
         android:layout_margin="5dp"
         android:padding="5dp"
         />
