@@ -1,18 +1,30 @@
 <resources>
     <string name="app_name">Medical_project</string>
+    <string name="Drowning" translatable="true">Drowning</string>
+    <string name="drown_first_line" translatable="true">"What do I do if I see someone wrestling with drowning in the sea or in the pool?</string>
+    <string name="drown_2_line" translatable="true">""If you cannot swim: -""</string>
+    <string name="drown_3_line" translatable="true">". If he is conscious, you should follow the following steps: -"</string>
+    <string name="drown_4_line" translatable="true">". Never try to jump into the water to save a drowning person."</string>
+    <string name="drown_5_line" translatable="true">". Help him by extending your hand, a stick, or a new rod, or throwing a rope to him in the water, then pull him out of the water."</string>
+    <string name="drown_6_line" translatable="true">". If the person who is fighting drowning is unconscious, you should follow the following steps:"</string>
+    <string name="drown_7_line" translatable="true">". Never try to jump into the water to save a drowning person."</string>
+    <string name="drown_8_line" translatable="true">". Ask for help from the crowd, as you may find someone who can swim to help save the drowning."</string>
+    <string name="drown_9_line" translatable="true">". Call civil defence or rescue officials at the beach or club."</string>
     <string-array name="Sp_sex">
         <item>Male</item>
         <item>Female</item>
     </string-array>
-    <string-array name="Sp_blood_types">
-        <item>+A</item>
-        <item>-A</item>
-        <item>+B</item>
-        <item>-B</item>
-        <item>+AB</item>
-        <item>-AB</item>
-        <item>+O</item>
-        <item>-O</item>
-    </string-array>
+   <string-array name="Sp_blood_types">
+       <item>A+</item>
+       <item>O+</item>
+       <item>B+</item>
+       <item>AB+</item>
+       <item>A-</item>
+       <item>O-</item>
+       <item>B-</item>
+       <item>AB-</item>
+       <item>Other</item>
+   </string-array>
+
 
 </resources>
