@@ -9,16 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Medical_project">
-        <activity android:name=".drowning">
+        <activity android:name=".qucik_check">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".drowning">
 
         </activity>
+        <activity android:name=".MainActivity"></activity>
     </application>
 
 </manifest>

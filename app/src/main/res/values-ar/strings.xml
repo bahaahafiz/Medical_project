@@ -11,6 +11,39 @@
     <string name="drown_7_line" translatable="true">"لا تحاول مطلقاُ القفز في الماء لإنقاذ الغريق."</string>
     <string name="drown_8_line" translatable="true">"اطلب المساعدة من الجمهور، فربما وجدت من يجيد السباحة فيساعد على انقاذ الغريق.</string>
     <string name="drown_9_line" translatable="true">"اتصل بالدفاع المدني او مسؤولي الإنقاذ على الشاطئ او في النادي."</string>
+    <string name="quick_check">الفحص السريع</string>
+    <string name="how_should_i_behave_if_i_find_an_adult_child_or_infant_lying_on_the_ground_on_the_public_road">كيف اتصرف إذا وجدت شخصاً بالغاً او طفلاً او رضيعاً ممداً على الأرض في الطريق العام؟</string>
+    <string name="take_care_of_your_safety_first">اهتم بسلامتك اولاً.</string>
+    <string name="never_approach_the_site_of_an_accident_if_it_is_not_safe">لا تقترب من موقع الحادث مطلقاً إذا كان غير امن.</string>
+    <string name="ask_the_audience_to_get_away_from_the_scene_of_the_accident">اطلب من الجمهور الابتعاد عن موقع الحادث.</string>
+    <string name="ask_the_audience_if_one_of_them_is_a_doctor_or_ambulance_technician_to_help_rescue_the_injured">اسال الجمهور إذا كان أحدهم طبيباً او فني خدمات اسعافية للمساعدة في انقاذ المصابين.</string>
+    <string name="you_can_request_assistance_from_members_of_the_public_in_following_the_emergency_instructions_that_you_specify_for_them_to_help_save_the_largest_number_of_injured">يمكن طلب المساعدة من افراد الجمهور في اتباع التعليمات الاسعافية التي تحددها لهمللمساعدة في انقاذ أكبر عدد من المصابين .</string>
+    <string name="make_the_place_safe">اجعل المكان امناً.</string>
+    <string name="take_care_of_the_safety_of_the_injured"> اهتم بسلامة المصاب.</string>
+    <string name="age_group">الفئة العمرية</string>
+    <string name="pulse_rate_per_minute">معدل النبض في الدقيقة</string>
+    <string name="accurate_respiratory_rate">معدل التنفس في الدقيقة</string>
+    <string name="adults">البالغون</string>
+    <string name="_60_100">60-100</string>
+    <string name="children">الاطفال</string>
+    <string name="infants">الرضع</string>
+    <string name="how_to_examine_the_injured_person"> كيف افحص المصاب:</string>
+    <string name="test_the_degree_of_consciousness_to_determine_if_it_is_conscious_or_unconscious">• اختبر درجة الوعي لتحديد إذا كان واعياً ام غير واعً.</string>
+    <string name="ask_the_injured_person_what_is_wrong_with_you_in_a_loud_voice_if_he_does_not_respond_to_the_verbal_stimulus_try_scratching_the_sternum_mid_breastbone_with_your_finger_several_times_while_repeating_your_question">•اسال المصاب ماذا بك بصوت مرتفع فان لم يستجيب للمنبه الكلامي. حاول حك عظمة القص (عظمة منتصف الصدر) بأصبعك مرات عدة مع تكرار سؤالك </string>
+    <string name="what_s_wrong_if_he_does_not_respond_to_the_verbal_stimulus_the_sufferer_is_unconscious_and_if_he_responds_to_the_verbal_or_painful_stimulus_the_sufferer_is_conscious">ماذا بك. فان لم يستجيب للمنبه الكلامي يكون المصاب غير واع وإذا استجاب للمنبه الكلامي او الايلامي يكون المصاب واعياً.</string>
+    <string name="rapid_examination_of_the_unconscious_patient">الفحص السريع للمصاب غير الواعي:</string>
+    <string name="what_do_i_do_if_it_is_confirmed_that_the_patient_is_not_conscious">ماذا افعل إذا تأكدت ان المصاب غير واع؟.</string>
+    <string name="follow_the_life_saving_adult_series_as_follows">اتبع سلسلة انقاذ الحياة للبالغين كالتالي:</string>
+    <string name="early_call_to_the_ambulance_number_123">•الاتصال المبكر ع رقم الاسعاف123</string>
+    <string name="a_breath_test">• فحص التنفس</string>
+    <string name="early_cpr_in_case_the_patient_is_not_breathing"> •الانعاش القلبي الرئوي المبكر في حال كان المريض لا يتنفس</string>
+    <string name="use_of_an_abdominal_defibrillation_device">•استعمال جهاز ازاله الرجفان البطني</string>
+    <string name="the_arrival_of_the_ambulance_team">•وصول الفرقة الاسعافية</string>
+    <string name="advanced_cardiac_care">•العناية القلبية المتقدمة</string>
+    <string name="breath_test">فحص التنفس:</string>
+    <string name="the_patient_s_breathing_is_checked_by_looking_at_the_patient_s_chest_to_monitor_the_rise_and_fall_of_the_chest_the_movement_of_the_chest_downward_and_rising_is_an_indication_of_the_presence_of_a_pulse_so_it_is_sufficient_to_check_breathing_without_the_need_to_check_the_pulse">يتم فحص تنفس المريض من خلال النظر الي صدر المريض لمراقبة ارتفاع وهبط الصدر. حركة الصدر بالهبوط والارتفاع دلالة على وجود النبض لذلك يكتفي بفحص التنفس دون الحاجة لفحص النبض.</string>
+    <string name="note">ملاحظة:</string>
+    <string name="the_time_period_for_the_breath_test_is_5_10_seconds">الفترة الزمنية لفحص التنفس 5_10 ثواني.</string>
 
 
 </resources>
