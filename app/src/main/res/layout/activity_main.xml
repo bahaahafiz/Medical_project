@@ -38,14 +38,14 @@
                      android:id="@+id/first_name"
                      android:layout_toEndOf="@+id/name_icon"
                      android:layout_below="@id/full_name"
-                     android:hint="First Name"/>
+                     android:hint="@string/first_name"/>
                  <EditText
                      android:layout_width="match_parent"
                      android:layout_height="wrap_content"
                      android:id="@+id/last_name"
                      android:layout_toEndOf="@+id/name_icon"
                      android:layout_below="@id/first_name"
-                     android:hint="Last Name"/>
+                     android:hint="@string/last_name"/>
 
 
              </RelativeLayout>
@@ -64,7 +64,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:id="@+id/tv_Birthday"
-                        android:text="Birthday"
+                        android:text="@string/birthday"
                         android:layout_toEndOf="@+id/birthday_icon"/>
                     <EditText
                         android:layout_width="match_parent"
@@ -73,7 +73,7 @@
                         android:id="@+id/et_birthday"
                         android:layout_toEndOf="@+id/birthday_icon"
                         android:layout_below="@id/tv_Birthday"
-                        android:hint="Birthday"
+                        android:hint="@string/birthday"
                         />
 
 
@@ -96,7 +96,7 @@
                         android:layout_height="wrap_content"
                         android:id="@+id/tv_sex"
                         android:padding="10dp"
-                        android:text="Sex"
+                        android:text="@string/sex"
                         android:layout_toEndOf="@+id/sex_icon"/>
 
                     <Spinner
@@ -127,7 +127,7 @@
                         android:layout_height="wrap_content"
                         android:id="@+id/tv_phone"
                         android:padding="10dp"
-                        android:text="Phone"
+                        android:text="@string/phone"
                         android:layout_toEndOf="@+id/phone_icon"/>
 
                      <EditText
@@ -136,7 +136,7 @@
                      android:layout_height="wrap_content"
                      android:layout_below="@id/tv_phone"
                      android:layout_toEndOf="@+id/phone_icon"
-                     android:hint="Phone Number"
+                     android:hint="@string/phone_number"
                      android:inputType="phone" />
 
 
@@ -164,7 +164,7 @@
                                         android:layout_height="wrap_content"
                                         android:id="@+id/tv_length"
                                         android:padding="5dp"
-                                        android:text="Length"
+                                        android:text="@string/length"
                                         android:layout_toEndOf="@+id/length_icon"/>
 
                                     <EditText
@@ -173,7 +173,7 @@
                                         android:layout_height="wrap_content"
                                         android:layout_below="@id/tv_length"
                                         android:layout_toEndOf="@+id/length_icon"
-                                        android:hint="Length"
+                                        android:hint="@string/length"
                                         android:inputType="phone" />
                                 </RelativeLayout>
                     <RelativeLayout
@@ -193,7 +193,7 @@
                                         android:layout_height="wrap_content"
                                         android:id="@+id/tv_weight"
                                         android:padding="5dp"
-                                        android:text="Weight"
+                                        android:text="@string/weight"
                                         android:layout_toEndOf="@+id/weight_icon"/>
 
                                     <EditText
@@ -202,7 +202,7 @@
                                         android:layout_height="wrap_content"
                                         android:layout_below="@id/tv_weight"
                                         android:layout_toEndOf="@+id/weight_icon"
-                                        android:hint="Weight"
+                                        android:hint="@string/weight"
                                         android:inputType="number"
                                         />
                                 </RelativeLayout>
@@ -223,7 +223,7 @@
                                 android:layout_height="wrap_content"
                                 android:id="@+id/tv_address"
                                 android:padding="10dp"
-                                android:text="Address"
+                                android:text="@string/address"
                                 android:layout_toEndOf="@+id/address_icon"/>
 
                             <EditText
@@ -232,7 +232,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_below="@id/tv_address"
                                 android:layout_toEndOf="@+id/address_icon"
-                                android:hint="Governorate"
+                                android:hint="@string/governorate"
                                  />
 
                              <EditText
@@ -262,7 +262,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:id="@+id/tv_blood"
-                                android:text="Blood Type"
+                                android:text="@string/blood_type"
                                 android:layout_toEndOf="@+id/blood_icon"/>
 
                             <Spinner
@@ -282,27 +282,27 @@
                          android:layout_height="wrap_content"
                          android:id="@+id/cb_deaf_dumb"
                           android:padding="10dp"
-                         android:text="Are you from the deaf and dumb category?"/>
+                         android:text="@string/are_you_from_the_deaf_and_dumb_category"/>
                      <Switch
                          android:layout_width="match_parent"
                          android:id="@+id/sw_diabetic"
                          android:layout_height="wrap_content"
                          android:padding="10dp"
-                         android:text="Are you diabetic?"/>
+                         android:text="@string/are_you_diabetic"/>
                      <Switch
                             android:layout_width="match_parent"
                             android:id="@+id/sw_blood_pressure"
                             android:layout_height="wrap_content"
                             android:padding="10dp"
                             android:drawableLeft="@drawable/ic_blood_pressure_gauge"
-                            android:text="Are you sick with blood pressure?"/>
+                            android:text="@string/are_you_sick_with_blood_pressure"/>
                      <Switch
                         android:layout_width="match_parent"
                         android:id="@+id/sw_heart"
                         android:layout_height="wrap_content"
                          android:padding="10dp"
                         android:drawableLeft="@drawable/ic_heart"
-                        android:text="Are you a heart patient?"/>
+                        android:text="@string/are_you_a_heart_patient"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -312,12 +312,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/cb_diseases"
-                    android:text="Do you suffer from other chronic diseases?"/>
+                    android:text="@string/do_you_suffer_from_other_chronic_diseases"/>
 
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Enter the diseases"
+                    android:text="@string/enter_the_diseases"
                     android:layout_below="@+id/cb_diseases"/>
 
 
@@ -328,7 +328,7 @@
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="sign in "
+                        android:text="@string/sign_in"
                         android:padding="10dp"
                         android:layout_gravity="center"
                         android:bottomRightRadius="10dp"
