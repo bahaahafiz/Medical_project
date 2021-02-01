@@ -43,6 +43,26 @@
     <string name="the_patient_s_breathing_is_checked_by_looking_at_the_patient_s_chest_to_monitor_the_rise_and_fall_of_the_chest_the_movement_of_the_chest_downward_and_rising_is_an_indication_of_the_presence_of_a_pulse_so_it_is_sufficient_to_check_breathing_without_the_need_to_check_the_pulse">The patient\'s breathing is checked by looking at the patient\'s chest to monitor the rise and fall of the chest. The movement of the chest downward and rising is an indication of the presence of a pulse, so it is sufficient to check breathing without the need to check the pulse</string>
     <string name="note">Note:</string>
     <string name="the_time_period_for_the_breath_test_is_5_10_seconds">The time period for the breath test is 5-10 seconds.</string>
+    <string name="fractures_bruises_and_dislocations">Fractures, bruises and dislocations</string>
+    <string name="how_do_i_know_that_the_leg_or_arm_bones_are_broken">How do I know that the leg or arm bones are broken?</string>
+    <string name="look_for_signs_of_fractures_such_as">Look for signs of fractures such as:</string>
+    <string name="_1_deformation_of_the_limb">1. Deformation of the limb.</string>
+    <string name="_2_the_thing_that_happens_when_you_press_its_place">2. The thing that happens when you press its place.</string>
+    <string name="_3_shortness_of_the_bones">3. Shortness of the bones.</string>
+    <string name="_4_hear_the_crackling_sound_when_trying_to_move_the_broken_person_with_severe_pain">4. Hear the crackling sound when trying to move the broken person with severe pain.</string>
+    <string name="_5_seeing_bone_protruding_from_the_open_wounds">5. Seeing bone protruding from the open wounds.</string>
+    <string name="what_is_the_importance_of_splints_and_ligaments">What is the importance of splints and ligaments?</string>
+    <string name="_1_keeping_the_broken_bones_in_a_state_of_rest_thus_reducing_the_feeling_of_severe_pain">1. Keeping the broken bones in a state of rest, thus reducing the feeling of severe pain.</string>
+    <string name="_2_preventing_tissue_damage_surrounding_the_fracture_and_preventing_rupture_of_the_surrounding_blood_vessels_and_nerves">2. Preventing tissue damage surrounding the fracture and preventing rupture of the surrounding blood vessels and nerves.</string>
+    <string name="_3_avoid_turning_the_simple_fraction_into_a_double_or_compound_fracture">3. Avoid turning the simple fraction into a double or compound fracture.</string>
+    <string name="_4_preventing_the_two_ends_of_the_broken_bone_from_friction_thus_avoiding_the_occurrence_of_pain">4. Preventing the two ends of the broken bone from friction, thus avoiding the occurrence of pain.</string>
+    <string name="what_are_the_general_principles_of_splints">What are the general principles of splints?</string>
+    <string name="_1_the_joint_located_before_and_after_the_skeletal_injury_is_fixed_for_the_joint_injury_the_bone_present_before_and_after_the_injured_joint_is_fixed">1. The joint located before and after the skeletal injury is fixed, for the joint injury the bone present before and after the injured joint is fixed.</string>
+    <string name="_2_remove_and_cut_the_clothes_in_the_injured_area_before_casting">2. Remove and cut the clothes in the injured area before casting.</string>
+    <string name="_3_cover_open_injuries_with_a_sterile_pad_before_splinting">3. Cover open injuries with a sterile pad before splinting.</string>
+    <string name="_4_fixing_the_limb_in_the_position_in_which_it_was_found_unless_there_was_no_pulse_in_the_distal_limb_of_the_manual_traction_injury_before_the_splint_was_installed">4. Fixing the limb in the position in which it was found, unless there was no pulse in the distal limb of the manual traction injury before the splint was installed.</string>
+    <string name="_5_not_to_return_the_bone_from_the_wound_intentionally_into_the_tissues">5. Not to return the bone from the wound intentionally into the tissues.</string>
+    <string name="_6_putting_on_the_splint_when_you_suspect_an_injury">6. Putting on the splint when you suspect an injury.</string>
     <string-array name="Sp_sex">
         <item>Male</item>
         <item>Female</item>
