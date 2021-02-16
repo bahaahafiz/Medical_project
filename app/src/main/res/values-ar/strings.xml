@@ -140,6 +140,23 @@
     <string name="place_the_bite_or_sting_site_below_the_level_of_the_heart">• ضع موضع اللدغة أو اللدغة تحت مستوى القلب.</string>
     <string name="wipe_the_site_of_the_bite_or_sting_with_alcohol_or_water_and_soap">• امسح مكان اللدغة أو اللدغة بالكحول أو الماء والصابون.</string>
     <string name="fixation_of_the_limb_with_splints_to_prevent_movement_or_walking_as_in_the_case_of_a_fracture">• تثبيت الطرف بالجبائر لمنع الحركة أو المشي (كما في حالة الكسر).</string>
+    <string name="full_name">الاسم الاول</string>
+    <string name="city">المدينة</string>
+    <string-array name="Sp_sex">
+        <item>ذكر</item>
+        <item>انثي</item>
+    </string-array>
+    <string-array name="Sp_blood_types">
+        <item>A+</item>
+        <item>O+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>Other</item>
+    </string-array>
 
 
 </resources>

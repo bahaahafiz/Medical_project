@@ -139,6 +139,8 @@
     <string name="place_the_bite_or_sting_site_below_the_level_of_the_heart">•Place the bite or sting site below the level of the heart.</string>
     <string name="wipe_the_site_of_the_bite_or_sting_with_alcohol_or_water_and_soap">•Wipe the site of the bite or sting with alcohol or water and soap.</string>
     <string name="fixation_of_the_limb_with_splints_to_prevent_movement_or_walking_as_in_the_case_of_a_fracture">•Fixation of the limb with splints to prevent movement or walking (as in the case of a fracture).</string>
+    <string name="full_name">Full Name</string>
+    <string name="city">City</string>
     <string-array name="Sp_sex">
         <item>Male</item>
         <item>Female</item>

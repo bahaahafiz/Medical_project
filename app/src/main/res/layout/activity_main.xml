@@ -30,7 +30,7 @@
                      android:layout_height="wrap_content"
                      android:id="@+id/full_name"
                      android:padding="10dp"
-                     android:text="Full Name"
+                     android:text="@string/full_name"
                      android:layout_toEndOf="@+id/name_icon"/>
                  <EditText
                      android:layout_width="match_parent"
@@ -241,7 +241,7 @@
                              android:layout_height="wrap_content"
                              android:layout_below="@id/et_Governorate"
                              android:layout_toEndOf="@+id/address_icon"
-                             android:hint="City" />
+                             android:hint="@string/city" />
 
 
 
@@ -288,21 +288,24 @@
                          android:id="@+id/sw_diabetic"
                          android:layout_height="wrap_content"
                          android:padding="10dp"
-                         android:text="@string/are_you_diabetic"/>
+                         android:text="@string/are_you_diabetic"
+                         tools:ignore="UseSwitchCompatOrMaterialXml" />
                      <Switch
                             android:layout_width="match_parent"
                             android:id="@+id/sw_blood_pressure"
                             android:layout_height="wrap_content"
                             android:padding="10dp"
-                            android:drawableLeft="@drawable/ic_blood_pressure_gauge"
-                            android:text="@string/are_you_sick_with_blood_pressure"/>
+                            android:drawableStart="@drawable/ic_blood_pressure_gauge"
+                            android:text="@string/are_you_sick_with_blood_pressure"
+                         tools:ignore="UseSwitchCompatOrMaterialXml" />
                      <Switch
                         android:layout_width="match_parent"
                         android:id="@+id/sw_heart"
                         android:layout_height="wrap_content"
                          android:padding="10dp"
-                        android:drawableLeft="@drawable/ic_heart"
-                        android:text="@string/are_you_a_heart_patient"/>
+                        android:drawableStart="@drawable/ic_heart"
+                        android:text="@string/are_you_a_heart_patient"
+                         tools:ignore="UseSwitchCompatOrMaterialXml" />
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -317,7 +320,7 @@
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/enter_the_diseases"
+                    android:hint="@string/enter_the_diseases"
                     android:layout_below="@+id/cb_diseases"/>
 
 
